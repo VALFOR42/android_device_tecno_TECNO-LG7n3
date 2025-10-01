@@ -10,7 +10,7 @@ jobs:
     env:
       REPO_URL: https://github.com/TeamWin/android_manifest.git
       BRANCH: twrp-12.1
-      DEVICE_TREE: https://github.com/VALFOR42/android_device_tecno_TECNO-LG7n3
+      DEVICE_TREE: https://github.com/VALFOR42/android_device_tecno_TECNO-LG7n3.git
       DEVICE_PATH: device/tecno/TECNO-LG7n
       DEVICE_NAME: TECNO-LG7n
 
